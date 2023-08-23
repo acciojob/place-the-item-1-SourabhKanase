@@ -1,2 +1,25 @@
+.div-1{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+}
 
-/* Your CSS Code here. */
+.div-c{
+	height:100px;
+	width:100px;
+	background:green;
+	order:1;
+}
+.div-b{
+	height:100px;
+	width:100px;
+	background:blue;
+	order:3;
+}
+.div-a{
+	height:100px;
+	width:100px;
+	background:red;
+	order:2;
+}
